@@ -8,11 +8,13 @@ Accurate forecasting of wind energy production is critical for integrating renew
 
 ## Contents
 
-- `code/`: Contains the Python scripts for implementing the statistical models and deep learning models, as well as data preprocessing and evaluation.
-- `data/`: Contains the datasets used in the analysis:
-  - `wind-usa-time-series`: A dataset containing historical wind power production data from the USA.
-  - `wind-time-series-dataset-10min`: A dataset with wind power production data recorded at 10-minute intervals.
-- `README.md`: This file, providing an overview of the project.
+- `.gitignore`: Initial commit (10 minutes ago)
+- `FinalTIMESERIESSS (2).ipynb`: Add files via upload (7 minutes ago)
+- `README.md`: README.md (now)
+- `Wind Time Series Dataset(10min).csv`: Add files via upload (7 minutes ago)
+- `time_series_wind.ipynb`: Add files via upload (5 minutes ago)
+- `wind-power-production-us.csv`: Add files via upload (7 minutes ago)
+- `wind_usa_time_series (1).ipynb`: Add files via upload (7 minutes ago)
 
 ## Getting Started
 
@@ -21,3 +23,6 @@ To use or contribute to this project, follow these steps:
 1. Clone the repository to your local machine:
    ```sh
    git clone https://github.com/Samaamr/wind-production-forecasting.git
+
+2. Explore the code and datasets in the respective directories.
+3. Run the Python scripts to execute the models and analyze the results.
